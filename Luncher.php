@@ -29,8 +29,7 @@ https://feelthecode.com
 
 site: https://feelthecode.com
 Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
-
+Telegram Channel: https://telegram.me/rahmannavazani
 یا علی خدا قوت
 */
 ?>
